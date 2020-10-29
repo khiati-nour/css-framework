@@ -1,0 +1,17 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+    background-color: whitesmoke;
+     margin: 20px;
+}
+/*.d-flex { display: flex;
+flex-direction: row;}*/
+/*.w-100{
+    display: flex;
+    width: 80vh;
+
+
+}*/
+.aside {
+border-color: black;
+
+}
